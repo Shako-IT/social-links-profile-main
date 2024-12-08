@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Shako-IT/social-links-profile-main.git
-- Live Site URL:
+- Live Site URL: https://shako-it.github.io/social-links-profile-main
 
 ## My process
 
@@ -53,5 +53,5 @@ I want to continue mastering CSS.
 
 ## Author
 
-- Website - [Shalva MghebriSvili](https://github.com/Shako-IT)
+- Website - [Shalva Mghebrishvili](https://github.com/Shako-IT)
 - Frontend Mentor - [@Shako-IT](https://www.frontendmentor.io/profile/Shako-IT)
