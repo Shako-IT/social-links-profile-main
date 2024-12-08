@@ -1,8 +1,4 @@
-@media only screen and (max-width: 2375px) {
-  .container {
-    background-color: antiquewhite;
-  }
-
+@media only screen and (max-width: 375px) {
   .card {
     width: 327px;
     height: 579px;
